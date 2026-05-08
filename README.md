@@ -1,39 +1,222 @@
-<h1 align="center">Hi 👋, I'm Sarwar Altaf Dar</h1>
-<h3 align="center">A passionate frontend developer from Jammu & Kashmir</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621cdc3ee5303f930e4a3ea66ab4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techxsarwar&label=Profile%20views&color=0e75b6&style=flat" alt="techxsarwar" /> </p>
+<!-- ████████╗███████╗ ██████╗██╗  ██╗██╗  ██╗███████╗ █████╗ ██████╗ ██╗    ██╗ █████╗ ██████╗  -->
+<!-- ╚══██╔══╝██╔════╝██╔════╝██║  ██║╚██╗██╔╝██╔════╝██╔══██╗██╔══██╗██║    ██║██╔══██╗██╔══██╗ -->
+<!--    ██║   █████╗  ██║     ███████║ ╚███╔╝ ███████╗███████║██████╔╝██║ █╗ ██║███████║██████╔╝ -->
+<!--    ██║   ██╔══╝  ██║     ██╔══██║ ██╔██╗ ╚════██║██╔══██║██╔══██╗██║███╗██║██╔══██║██╔══██╗ -->
+<!--    ██║   ███████╗╚██████╗██║  ██║██╔╝ ██╗███████║██║  ██║██║  ██║╚███╔███╔╝██║  ██║██║  ██║ -->
+<!--    ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝ -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techxsarwar" alt="techxsarwar" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [TheGitGramBot](t.me/thegitgram_bot)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sarwar%20Altaf%20Dar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Author.%20Architect%20of%20Things%20That%20Don%27t%20Exist%20Yet.&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-- 🌱 I’m currently learning **Developing**
+</div>
 
-- 👯 I’m looking to collaborate on **Any Project**
+---
 
-- 🤝 I’m looking for help with **Backend Problems**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/techxsarwar](https://github.com/techxsarwar)
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ⚡  18 · Kashmir  ·  he/him  ·  @techxsarwar               │
+│  ∞   Code by day — forge worlds by night                    │
+│  ◈   Currently building: AI tools + a fantasy universe      │
+└─────────────────────────────────────────────────────────────┘
+```
 
-- 💬 Ask me about **C#**
+[![GitHub](https://img.shields.io/badge/GitHub-techxsarwar-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/techxsarwar)
+[![Instagram](https://img.shields.io/badge/Instagram-meleysrage-0f0c29?style=for-the-badge&logo=instagram&logoColor=white&labelColor=302b63)](https://instagram.com/meleysrage)
+[![Organization](https://img.shields.io/badge/Org-TheDataPrysm-0f0c29?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+&logoColor=white&labelColor=302b63)](https://github.com/TheDataPrysm)
 
-- 📫 How to reach me **darsarwar060+123@gmail.com**
+</div>
 
-- ⚡ Fun fact **I'm 17**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/meleysrage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meleysrage" height="30" width="40" /></a>
-</p>
+## `> whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scully.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> <a href="https://sculpin.io/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+```yaml
+name:       Sarwar Altaf Dar
+alias:      techxsarwar
+age:        18
+origin:     Damhal Hanji Pora, Kashmir
+role:       [Developer, Fiction Author, Builder]
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sarwaraltaf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarwaraltaf" /></a></p><br><br>
+currently:
+  - Shipping AI-powered tools under TheDataPrysm
+  - Writing "The Slayer of Stars" — a dark fantasy universe
+  - Exploring the edge where code meets creativity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techxsarwar&show_icons=true&locale=en&layout=compact" alt="techxsarwar" /></p>
+philosophy: >
+  I don't just write code — I architect experiences.
+  I don't just write stories — I build worlds.
+  The best systems, like the best stories, are ones
+  people can't imagine living without.
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techxsarwar&show_icons=true&locale=en" alt="techxsarwar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techxsarwar&" alt="techxsarwar" /></p>
+## `> ls ./skills`
+
+<div align="center">
+
+| Domain | Stack |
+|--------|-------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=f7d060) ![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=flat-square&logo=javascript&logoColor=f0db4f) ![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=flat-square&logo=typescript&logoColor=3178c6) ![HTML5](https://img.shields.io/badge/HTML5-0f0c29?style=flat-square&logo=html5&logoColor=e34f26) |
+| **AI / ML** | ![Anthropic](https://img.shields.io/badge/Claude_API-0f0c29?style=flat-square&logo=anthropic&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0f0c29?style=flat-square&logo=huggingface&logoColor=ffd21e) ![Qwen](https://img.shields.io/badge/Qwen-0f0c29?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-0f0c29?style=flat-square&logo=react&logoColor=61dafb) ![TailwindCSS](https://img.shields.io/badge/Tailwind-0f0c29?style=flat-square&logo=tailwindcss&logoColor=38bdf8) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-0f0c29?style=flat-square&logo=git&logoColor=f05032) ![VS Code](https://img.shields.io/badge/VSCode-0f0c29?style=flat-square&logo=visualstudiocode&logoColor=007acc) ![Linux](https://img.shields.io/badge/Linux-0f0c29?style=flat-square&logo=linux&logoColor=fcc624) |
+
+</div>
+
+---
+
+## `> cat ./projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚙️ [QwenCoder](https://github.com/techxsarwar/QwenCoder)
+> **AI coding assistant** built on Qwen models.
+> Turns natural language into working code — fast.
+
+`Python` · `LLM` · `Code Generation`
+
+</td>
+<td width="50%">
+
+### 🤖 [thegitgram_bot](https://github.com/techxsarwar/thegitgram_bot)
+> **Automation bot** bridging GitHub and Telegram.
+> Because developers shouldn't live in two windows.
+
+`Python` · `Bot` · `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📖 [stoery](https://github.com/techxsarwar/stoery)
+> **Storytelling platform** — where narrative meets code.
+> Born from the belief that stories deserve better tools.
+
+`TypeScript` · `Platform` · `Creative Tech`
+
+</td>
+<td width="50%">
+
+### 🏗️ [Vertical-Constructions](https://github.com/techxsarwar/Vertical-Constructions)
+> **Generative architecture** concepts in the browser.
+> What if buildings could be designed by code?
+
+`JavaScript` · `Generative` · `Visual`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 [themanwithin](https://github.com/techxsarwar/themanwithin)
+> **Personal manifesto** as a website.
+> Not a portfolio. A perspective.
+
+`HTML` · `Identity` · `Design`
+
+</td>
+<td width="50%">
+
+### 🌌 The Slayer of Stars *(in progress)*
+> **Dark fantasy manuscript** — Volume I of a multi-arc universe.
+> KamiKaze Academy. Characters built like systems. Worlds with rules.
+
+`Fiction` · `World-building` · `Publishing`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat ./currently_building`
+
+```python
+class Sarwar:
+    def __init__(self):
+        self.focus       = ["AI tools", "creative platforms", "open source"]
+        self.learning    = ["systems design", "ML engineering", "narrative theory"]
+        self.org         = "TheDataPrysm"  # building something bigger here
+        self.side_quest  = "finishing Vol. I before Vol. II writes itself"
+
+    def ask_me_about(self):
+        return [
+            "building AI-powered apps from scratch",
+            "writing fiction with developer-level structure",
+            "turning ideas into shipped products at 18",
+        ]
+
+    def __repr__(self):
+        return "Sarwar Altaf Dar — making things that matter."
+```
+
+---
+
+## `> git log --oneline --graph`
+
+```
+* ◈ Working on AI animation studio (full stack)
+* ◈ Shipped QwenCoder — LLM-powered code assistant
+* ◈ Built thegitgram_bot — GitHub × Telegram automation  
+* ◈ Launched stoery — TypeScript storytelling engine
+* ◈ Vertical-Constructions — generative architecture
+* ◈ Founded TheDataPrysm organization
+* ◈ Started writing The Slayer of Stars universe
+```
+
+---
+
+## `> stats --live`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=techxsarwar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxsarwar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=6" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=techxsarwar&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa" width="60%"/>
+
+</div>
+
+---
+
+## `> cat ./contact`
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   Open to:  internships · collab · freelance work    │
+│   Strong:   AI tooling · Python · creative tech      │
+│   Based in: Kashmir, India  ·  Remote-first          │
+│                                                      │
+│   📬  Reach me via GitHub or @meleysrage             │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+> *"I build things at the intersection of intelligence and imagination."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=&animation=fadeIn" width="100%"/>
+
+<sub>Crafted with intent · Kashmir → World · 2026</sub>
+
+</div>
+
