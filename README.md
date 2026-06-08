@@ -41,7 +41,7 @@ origin:     Damhal Hanji Pora, Kashmir
 role:       [Developer, Fiction Author, Builder]
 
 currently:
-  - Shipping AI-powered tools under Parallelogram
+  - Shipping AI-powered tools under ParallelogramFoundation
   - Writing "The Slayer of Stars" — a dark fantasy universe
   - Exploring the edge where code meets creativity
 
