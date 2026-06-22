@@ -24,7 +24,7 @@
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-techxsarwar-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/techxsarwar)
-[![Instagram](https://img.shields.io/badge/Instagram-i.jubito-0f0c29?style=for-the-badge&logo=instagram&logoColor=white&labelColor=302b63)](https://instagram.com/meleysrage)
+[![Instagram](https://img.shields.io/badge/Instagram-i.jubito-0f0c29?style=for-the-badge&logo=instagram&logoColor=white&labelColor=302b63)](https://instagram.com/i.jubito)
 [![Organization](https://img.shields.io/badge/Org-TheDataPrysm-0f0c29?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+&logoColor=white&labelColor=302b63)](https://github.com/TheDataPrysm)
 
 </div>
