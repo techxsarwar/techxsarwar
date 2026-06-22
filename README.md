@@ -167,7 +167,7 @@ class Sarwar:
 * ◈ Built thegitgram_bot — GitHub × Telegram automation  
 * ◈ Launched stoery — TypeScript storytelling engine
 * ◈ Vertical-Constructions — generative architecture
-* ◈ Founded TheDataPrysm organization
+* ◈ Founded ParallelogramFoundation
 * ◈ Started writing The Slayer of Stars universe
 ```
 
