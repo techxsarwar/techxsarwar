@@ -143,7 +143,7 @@ class Sarwar:
     def __init__(self):
         self.focus       = ["AI tools", "creative platforms", "open source"]
         self.learning    = ["systems design", "ML engineering", "narrative theory"]
-        self.org         = "TheDataPrysm"  # building something bigger here
+        self.org         = "ParallelogramFoundation"  # building something bigger here
         self.side_quest  = "finishing Vol. I before Vol. II writes itself"
 
     def ask_me_about(self):
