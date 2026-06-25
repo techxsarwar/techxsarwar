@@ -259,23 +259,20 @@ const sarwar = {
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
 <div align="center">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-snake-dark.svg"
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-contribution-grid-snake-dark.svg"
     width="100%"
   />
 </picture>
