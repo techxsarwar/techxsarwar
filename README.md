@@ -1,212 +1,220 @@
-<!-- ████████╗███████╗ ██████╗██╗  ██╗██╗  ██╗███████╗ █████╗ ██████╗ ██╗    ██╗ █████╗ ██████╗  -->
-<!-- ╚══██╔══╝██╔════╝██╔════╝██║  ██║╚██╗██╔╝██╔════╝██╔══██╗██╔══██╗██║    ██║██╔══██╗██╔══██╗ -->
-<!--    ██║   █████╗  ██║     ███████║ ╚███╔╝ ███████╗███████║██████╔╝██║ █╗ ██║███████║██████╔╝ -->
-<!--    ██║   ██╔══╝  ██║     ██╔══██║ ██╔██╗ ╚════██║██╔══██║██╔══██╗██║███╗██║██╔══██║██╔══██╗ -->
-<!--    ██║   ███████╗╚██████╗██║  ██║██╔╝ ██╗███████║██║  ██║██║  ██║╚███╔███╔╝██║  ██║██║  ██║ -->
-<!--    ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝ -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sarwar%20Altaf%20Dar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Author.%20Architect%20of%20Things%20That%20Don%27t%20Exist%20Yet.&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sarwar%20Altaf%20Dar&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Builder%20%C2%B7%20Author%20%C2%B7%20Architect%20of%20Things%20That%20Don%27t%20Exist%20Yet&descAlignY=62&descSize=15&descColor=a78bfa&animation=fadeIn" width="100%" alt="header"/>
 </div>
 
----
+<br/>
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ⚡  18 · Kashmir  ·  he/him  ·  @techxsarwar               │
-│  ∞   Code by day — forge worlds by night                    │
-│  ◈   Currently building: AI tools + a fantasy universe      │
-└─────────────────────────────────────────────────────────────┘
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-techxsarwar-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/techxsarwar)
-[![Instagram](https://img.shields.io/badge/Instagram-i.jubito-0f0c29?style=for-the-badge&logo=instagram&logoColor=white&labelColor=302b63)](https://instagram.com/i.jubito)
-[![Organization](https://img.shields.io/badge/Org-TheDataPrysm-0f0c29?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsMTAgNSAxMC01TTIgMTJsMTAgNSAxMC01Ii8+PC9zdmc+&logoColor=white&labelColor=302b63)](https://github.com/TheDataPrysm)
-
+  <a href="https://github.com/techxsarwar">
+    <img src="https://komarev.com/ghpvc/?username=techxsarwar&style=for-the-badge&color=302b63&labelColor=0f0c29&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/techxsarwar?tab=followers">
+    <img src="https://img.shields.io/github/followers/techxsarwar?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS&logo=github&logoColor=a78bfa" alt="Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AGE-18-302b63?style=for-the-badge&labelColor=0f0c29&color=302b63" alt="Age"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FROM-Kashmir%2C%20India-302b63?style=for-the-badge&labelColor=0f0c29&color=302b63&logo=googlemaps&logoColor=a78bfa" alt="Location"/>
 </div>
 
+<br/>
+
 ---
 
-## `> whoami`
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;`whoami`
 
-```yaml
-name:       Sarwar Altaf Dar
-alias:      techxsarwar
-age:        18
-origin:     Damhal Hanji Pora, Kashmir
-role:       [Developer, Fiction Author, Builder]
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
-currently:
-  - Shipping AI-powered tools under ParallelogramFoundation
-  - Writing "The Slayer of Stars" — a dark fantasy universe
-  - Exploring the edge where code meets creativity
+```typescript
+const sarwar = {
+  name       : "Sarwar Altaf Dar",
+  alias      : "techxsarwar",
+  age        : 18,
+  origin     : "Damhal Hanji Pora, Kashmir 🏔️",
+  role       : ["AI Developer", "Fiction Author", "Open Source Builder"],
 
-philosophy: >
-  I don't just write code — I architect experiences.
-  I don't just write stories — I build worlds.
-  The best systems, like the best stories, are ones
-  people can't imagine living without.
+  currently  : {
+    building : "AI-powered tools @ ParallelogramFoundation",
+    writing  : "The Slayer of Stars — Vol. I (dark fantasy)",
+    exploring: "systems design · ML engineering · narrative theory",
+  },
+
+  philosophy : `
+    I don't just write code — I architect experiences.
+    I don't just write stories — I build worlds.
+    The best systems, like the best stories, are ones
+    people can't imagine living without.
+  `,
+
+  openTo     : ["internships", "collab", "freelance"],
+  remote     : true,
+};
 ```
 
+<br clear="right"/>
+
 ---
 
-## `> ls ./skills`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"/> &nbsp;`ls ./skills`
 
 <div align="center">
-
-| Domain | Stack |
-|--------|-------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=f7d060) ![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=flat-square&logo=javascript&logoColor=f0db4f) ![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=flat-square&logo=typescript&logoColor=3178c6) ![HTML5](https://img.shields.io/badge/HTML5-0f0c29?style=flat-square&logo=html5&logoColor=e34f26) |
-| **AI / ML** | ![Anthropic](https://img.shields.io/badge/Claude_API-0f0c29?style=flat-square&logo=anthropic&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0f0c29?style=flat-square&logo=huggingface&logoColor=ffd21e) ![Qwen](https://img.shields.io/badge/Qwen-0f0c29?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-0f0c29?style=flat-square&logo=react&logoColor=61dafb) ![TailwindCSS](https://img.shields.io/badge/Tailwind-0f0c29?style=flat-square&logo=tailwindcss&logoColor=38bdf8) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-0f0c29?style=flat-square&logo=git&logoColor=f05032) ![VS Code](https://img.shields.io/badge/VSCode-0f0c29?style=flat-square&logo=visualstudiocode&logoColor=007acc) ![Linux](https://img.shields.io/badge/Linux-0f0c29?style=flat-square&logo=linux&logoColor=fcc624) |
-
-</div>
-
----
-
-## `> cat ./projects`
 
 <table>
 <tr>
-<td width="50%">
-
-### ⚙️ [QwenCoder](https://github.com/techxsarwar/QwenCoder)
-> **AI coding assistant** built on Qwen models.
-> Turns natural language into working code — fast.
-
-`Python` · `LLM` · `Code Generation`
-
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="56" height="56"/>
+  <br><b>Python</b>
 </td>
-<td width="50%">
-
-### 🤖 [thegitgram_bot](https://github.com/techxsarwar/thegitgram_bot)
-> **Automation bot** bridging GitHub and Telegram.
-> Because developers shouldn't live in two windows.
-
-`Python` · `Bot` · `Automation`
-
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="56" height="56"/>
+  <br><b>JavaScript</b>
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📖 [stoery](https://github.com/techxsarwar/stoery)
-> **Storytelling platform** — where narrative meets code.
-> Born from the belief that stories deserve better tools.
-
-`TypeScript` · `Platform` · `Creative Tech`
-
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="56" height="56"/>
+  <br><b>TypeScript</b>
 </td>
-<td width="50%">
-
-### 🏗️ [Vertical-Constructions](https://github.com/techxsarwar/Vertical-Constructions)
-> **Generative architecture** concepts in the browser.
-> What if buildings could be designed by code?
-
-`JavaScript` · `Generative` · `Visual`
-
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="56" height="56"/>
+  <br><b>React</b>
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 [themanwithin](https://github.com/techxsarwar/themanwithin)
-> **Personal manifesto** as a website.
-> Not a portfolio. A perspective.
-
-`HTML` · `Identity` · `Design`
-
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="56" height="56"/>
+  <br><b>Git / GitHub</b>
 </td>
-<td width="50%">
-
-### 🌌 The Slayer of Stars *(in progress)*
-> **Dark fantasy manuscript** — Volume I of a multi-arc universe.
-> KamiKaze Academy. Characters built like systems. Worlds with rules.
-
-`Fiction` · `World-building` · `Publishing`
-
+<td align="center" width="100">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="56" height="56"/>
+  <br><b>Linux</b>
 </td>
 </tr>
 </table>
 
----
-
-## `> cat ./currently_building`
-
-```python
-class Sarwar:
-    def __init__(self):
-        self.focus       = ["AI tools", "creative platforms", "open source"]
-        self.learning    = ["systems design", "ML engineering", "narrative theory"]
-        self.org         = "ParallelogramFoundation"  # building something bigger here
-        self.side_quest  = "finishing Vol. I before Vol. II writes itself"
-
-    def ask_me_about(self):
-        return [
-            "building AI-powered apps from scratch",
-            "writing fiction with developer-level structure",
-            "turning ideas into shipped products at 18",
-        ]
-
-    def __repr__(self):
-        return "Sarwar Altaf Dar — making things that matter."
-```
-
----
-
-## `> git log --oneline --graph`
-
-```
-* ◈ Working on AI animation studio (full stack)
-* ◈ Shipped QwenCoder — LLM-powered code assistant
-* ◈ Built thegitgram_bot — GitHub × Telegram automation  
-* ◈ Launched stoery — TypeScript storytelling engine
-* ◈ Vertical-Constructions — generative architecture
-* ◈ Founded ParallelogramFoundation
-* ◈ Started writing The Slayer of Stars universe
-```
-
----
-
-## `> stats --live`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=techxsarwar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxsarwar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=6" height="165"/>
-
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=techxsarwar&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa" width="60%"/>
+| Domain | Technologies |
+|:-------:|:-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **AI / ML** | ![Anthropic](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Qwen](https://img.shields.io/badge/Qwen-6366F1?style=flat-square&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
 ---
 
-## `> cat ./contact`
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"/> &nbsp;`cat ./projects`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/techxsarwar/QwenCoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=QwenCoder&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
+</a>
+&nbsp;
+<a href="https://github.com/techxsarwar/thegitgram_bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=thegitgram_bot&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/techxsarwar/stoery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=stoery&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
+</a>
+&nbsp;
+<a href="https://github.com/techxsarwar/Vertical-Constructions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=Vertical-Constructions&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/techxsarwar/themanwithin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=themanwithin&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0" />
+</a>
+
+</div>
+
+<br/>
+
+> 🌌 **The Slayer of Stars** — *Dark fantasy manuscript in progress. Volume I of a multi-arc universe: KamiKaze Academy, characters built like systems, worlds with lore so deep they have their own physics.*
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28" /> &nbsp;`git log --oneline`
+
+```
+◈  [WIP]  Building AI animation studio — full stack
+◈  [✓]   Shipped QwenCoder — LLM-powered code assistant  
+◈  [✓]   Built thegitgram_bot — GitHub × Telegram automation  
+◈  [✓]   Launched stoery — TypeScript storytelling engine  
+◈  [✓]   Vertical-Constructions — generative architecture in browser  
+◈  [✓]   Founded ParallelogramFoundation  
+◈  [~]   The Slayer of Stars — Vol. I (in progress)
+```
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> &nbsp;`stats --live`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=techxsarwar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxsarwar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&langs_count=8" height="175"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=techxsarwar&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=e2e8f0" width="65%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techxsarwar&theme=react-dark&hide_border=true&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=a78bfa" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 &nbsp;`cat ./trophies`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=techxsarwar&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" width="95%"/>
+</div>
+
+---
+
+## 💬 &nbsp;`cat ./contact`
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   Open to:  internships · collab · freelance work    │
-│   Strong:   AI tooling · Python · creative tech      │
-│   Based in: Kashmir, India  ·  Remote-first          │
-│                                                      │
-│   📬  Reach me via GitHub or @i.jubito.              │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   🟢  Open to : internships · collab · freelance            │
+│   💜  Strong  : AI tooling · Python · creative tech          │
+│   🏔️  Based   : Kashmir, India  ·  Remote-first              │
+│                                                              │
+│   📬  GitHub  : github.com/techxsarwar                      │
+│   📷  Instagram: @i.jubito                                   │
+│   🏗️  Org     : github.com/TheDataPrysm                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-> *"I build things at the intersection of intelligence and imagination."*
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-techxsarwar-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/techxsarwar)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-i.jubito-0f0c29?style=for-the-badge&logo=instagram&logoColor=white&labelColor=302b63)](https://instagram.com/i.jubito)
+&nbsp;
+[![Organization](https://img.shields.io/badge/Org-TheDataPrysm-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/TheDataPrysm)
 
 </div>
 
@@ -214,9 +222,20 @@ class Sarwar:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=&animation=fadeIn" width="100%"/>
-
-<sub>Crafted with intent · Kashmir → World · 2026</sub>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20build%20things%20at%20the%20intersection%20of%20intelligence%20and%20imagination.&author=Sarwar%20Altaf%20Dar" width="80%"/>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║     Crafted with intent  ·  Kashmir → World  ·  2026         ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
