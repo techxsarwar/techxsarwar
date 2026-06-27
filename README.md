@@ -194,7 +194,7 @@ const sarwar = {
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-@i.jubito-0f0c29?style=for-the-badge&logo=instagram&logoColor=white&labelColor=302b63)](https://instagram.com/i.jubito)
 &nbsp;
-[![Org](https://img.shields.io/badge/Org-TheDataPrysm-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/TheDataPrysm)
+[![Org](https://img.shields.io/badge/Org- ParallelogramFoundation-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/ParallelogramFoundation)
 
 </div>
 
