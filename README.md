@@ -1,14 +1,18 @@
 <div align="center">
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--   SARWAR ALTAF DAR  ·  SYSTEMS ARCHITECT & AI ENGINEER          -->
-<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  ╔══════════════════════════════════════════════════╗  -->
+<!--  ║   SARWAR ALTAF DAR — ANIMATED GITHUB PROFILE    ║  -->
+<!--  ╚══════════════════════════════════════════════════╝  -->
 
-<!-- Premium Obsidian & Electric Cyan / Orange Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,30:111827,60:0f766e,85:0284c7,100:090d16&height=220&section=header&text=SARWAR%20ALTAF%20DAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Fiction%20Author%20%E2%80%A2%20Full-Stack%20Architect&descSize=15&descAlignY=62&descColor=67e8f9&animation=twinkling" width="100%" alt="Sarwar Altaf Dar Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:4c1d95&height=200&section=header&text=Sarwar%20Altaf%20Dar&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=AI%20Developer%20%C2%B7%20Fiction%20Author%20%C2%B7%20Builder%20of%20the%20Impossible&descSize=14&descAlignY=64&descColor=c4b5fd&animation=twinkling" width="100%" alt="Sarwar Altaf Dar"/>
 
-<!-- Executive Animated Typing Header (Plus Jakarta Sans) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=750&lines=Building+high-performance+AI+systems+and+mobile+ecosystems;Creator+of+FitRace+Gym+%E2%80%94+Real-Time+Athletic+Telemetry+%E2%9A%A1;Author+of+%22The+Slayer+of+Stars%22+%E2%80%94+Volume+I+%F0%9F%93%96;Architecting+scalable+full-stack+infrastructure+from+Kashmir+%F0%9F%8F%94%EF%B8%8F;Open+to+research+collaborations%2C+internships+%26+engineering+roles.)](https://github.com/techxsarwar)
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hey+there%2C+I%27m+Sarwar+%F0%9F%91%8B;AI+Developer+from+Kashmir+%F0%9F%8F%94%EF%B8%8F;Building+things+that+don%27t+exist+yet;Writing+worlds+people+can%27t+leave;Open+to+collabs+%E2%9C%A8)](https://github.com/techxsarwar)
 
 </div>
 
@@ -17,16 +21,16 @@
 <div align="center">
 
 <a href="https://github.com/techxsarwar">
-  <img src="https://komarev.com/ghpvc/?username=techxsarwar&style=for-the-badge&color=0284c7&labelColor=090d16&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=techxsarwar&style=for-the-badge&color=302b63&labelColor=0f0c29&label=PROFILE+VIEWS" />
 </a>
 &nbsp;
 <a href="https://github.com/techxsarwar?tab=followers">
-  <img src="https://img.shields.io/github/followers/techxsarwar?style=for-the-badge&color=0f766e&labelColor=090d16&label=FOLLOWERS&logo=github&logoColor=38bdf8" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/techxsarwar?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS&logo=github&logoColor=c4b5fd" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-SHIPPING_PRODUCTION-10b981?style=for-the-badge&labelColor=090d16" alt="Status"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-4c1d95?style=for-the-badge&labelColor=0f0c29&logoColor=c4b5fd" />
 &nbsp;
-<img src="https://img.shields.io/badge/LOCATION-KASHMIR%2C_INDIA-1e293b?style=for-the-badge&labelColor=090d16" alt="Location"/>
+<img src="https://img.shields.io/badge/REMOTE-FIRST-0f766e?style=for-the-badge&labelColor=0f0c29" />
 
 </div>
 
@@ -34,32 +38,32 @@
 
 ---
 
-## ⚡ Executive Summary
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`whoami`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Software Architecture"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding"/>
 
 ```typescript
-const engineer = {
-  name        : "Sarwar Altaf Dar",
-  handle      : "@techxsarwar",
-  location    : "Damhal Hanji Pora, Kashmir 🏔️",
-  organization: "ParallelogramFoundation",
+const sarwar = {
+  name     : "Sarwar Altaf Dar",
+  alias    : "@techxsarwar",
+  age      : 18,
+  origin   : "Damhal Hanji Pora, Kashmir 🏔️",
 
-  disciplines : [
-    "AI / ML Systems Engineering",
-    "Cross-Platform Mobile Architecture (React Native / Expo)",
-    "Cloud & Backend Infrastructure (Golang / PostgreSQL)",
-    "Literary Fiction & Worldbuilding"
+  roles    : [
+    "AI Developer",
+    "Fiction Author",
+    "Open Source Builder",
   ],
 
-  activeFocus : {
-    production: "FitRace Gym — Centralized Hardware Telemetry & Web Platform",
-    literature: "The Slayer of Stars — Volume I (KamiKaze Universe)",
-    research  : "Autonomous Agent Tooling & LLM Orchestration"
-  },
+  building : "AI animation studio — full stack",
+  writing  : "The Slayer of Stars — Vol. I 📖",
+  learning : "ML engineering · systems design",
 
-  philosophy  : `The best systems, like the best stories,
-                 are ones engineered with uncompromising precision.`
+  belief   : `The best systems, like the best stories,
+              are ones people can't imagine living without.`,
+
+  openTo   : ["internships", "collab", "freelance"],
+  remote   : true,
 };
 ```
 
@@ -67,97 +71,110 @@ const engineer = {
 
 ---
 
-## 🛠️ Technical Arsenal & Core Stack
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;`ls ./stack`
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,go,react,nextjs,supabase,postgres,docker,tailwind,git,linux&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,tailwind,git,linux,docker&theme=dark" />
 
 <br/><br/>
 
-| Layer | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `Go 1.25` `Python 3.12` `TypeScript` `JavaScript (ES6+)` `SQL` `HTML5/CSS3` |
-| **Mobile & Frontend** | `React Native` `Expo SDK 54` `Next.js 15` `React 19` `TailwindCSS` `Lottie` |
-| **Backend & Cloud** | `Golang (Chi / Fiber)` `Supabase Auth & Storage` `PostgreSQL (pgxpool)` `Render` `Vercel` |
-| **Hardware & AI** | `expo-sensors (Pedometer)` `expo-location (GPS)` `Claude API` `Qwen LLM` `Hugging Face` |
-| **DevOps & Tooling** | `Docker` `Linux (Arch / Ubuntu)` `Git` `VS Code` `PowerShell` `Cloudflare DNS` |
+| Domain | What I reach for |
+|:---:|:---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **AI / ML** | ![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Qwen](https://img.shields.io/badge/Qwen-6366F1?style=flat-square&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 </div>
 
 ---
 
-## 🚀 Featured Systems & Flagship Projects
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;`cat ./projects`
 
 <br/>
-
-| System | Architecture & Stack | Key Highlights | Link |
-| :--- | :--- | :--- | :---: |
-| **⚡ FitRace Gym** | `React Native` `Expo 54` `Go 1.25` `Supabase` | Full-stack athletic ecosystem with hardware step detection, live GPS workout tracking, digital turnstile access passes, and DPDP Act 2023 compliance. | [**Repository ➔**](https://github.com/techxsarwar/fitracegym) |
-| **🤖 QwenCoder** | `Python` `LLM Engine` `AI Tooling` | High-throughput autonomous code generation engine and contextual developer toolkit. | [**Repository ➔**](https://github.com/techxsarwar/QwenCoder) |
-| **✈️ thegitgram_bot** | `Python` `Telegram API` `GitHub Webhooks` | Automated event dispatcher streaming live GitHub commits, releases, and telemetry to Telegram. | [**Repository ➔**](https://github.com/techxsarwar/thegitgram_bot) |
-| **🏗️ Vertical-Constructions** | `TypeScript` `Algorithmic Modeling` | Procedural architectural generation framework for spatial blueprint calculations. | [**Repository ➔**](https://github.com/techxsarwar/Vertical-Constructions) |
-| **✍️ stoery** | `TypeScript` `Narrative Engine` | Interactive branching state machine for procedural worldbuilding and game narratives. | [**Repository ➔**](https://github.com/techxsarwar/stoery) |
-| **🧠 themanwithin** | `Python` `NLP` `Cognitive Dialogue` | Contextual conversational agent exploring psychometric dialogue and language modeling. | [**Repository ➔**](https://github.com/techxsarwar/themanwithin) |
-
-<br/>
-
-> 📖 **The Slayer of Stars — Volume I**  
-> *“When the heavens shatter, the engineered stars fall first.”* — An original dark fantasy manuscript featuring rule-based magic mechanics and system-level world design.
-
----
-
-## 📊 Live Metrics & Telemetry
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=techxsarwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&icon_color=0284c7&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+<a href="https://github.com/techxsarwar/QwenCoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=QwenCoder&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
+</a>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxsarwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=e2e8f0&langs_count=8" height="170"/>
+<a href="https://github.com/techxsarwar/thegitgram_bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=thegitgram_bot&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=techxsarwar&theme=tokyonight&hide_border=true&background=090d16&ring=38bdf8&fire=0284c7&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=e2e8f0" width="70%"/>
+<a href="https://github.com/techxsarwar/stoery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=stoery&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
+</a>
+&nbsp;
+<a href="https://github.com/techxsarwar/Vertical-Constructions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=Vertical-Constructions&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techxsarwar&theme=react-dark&hide_border=true&bg_color=090d16&color=38bdf8&line=0284c7&point=0f766e&area=true&area_color=38bdf8" width="95%"/>
-
-</div>
-
----
-
-## 📈 Star History & Growth Trajectory
-
-<div align="center">
-
-<a href="https://star-history.com/#techxsarwar/fitracegym&techxsarwar/QwenCoder&techxsarwar/thegitgram_bot&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=techxsarwar/fitracegym,techxsarwar/QwenCoder,techxsarwar/thegitgram_bot&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=techxsarwar/fitracegym,techxsarwar/QwenCoder,techxsarwar/thegitgram_bot&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=techxsarwar/fitracegym,techxsarwar/QwenCoder,techxsarwar/thegitgram_bot&type=Date&theme=dark" width="90%"/>
- </picture>
+<a href="https://github.com/techxsarwar/themanwithin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=themanwithin&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
 </a>
 
 </div>
 
+<br/>
+
+> 🌌 **The Slayer of Stars** — *Dark fantasy manuscript in progress. Vol. I of a multi-arc universe: KamiKaze Academy — characters engineered like systems, lore with its own physics.*
+
 ---
 
-## 🐍 Contribution Activity Pipeline
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;`git log --oneline`
+
+```
+◈  [WIP]   AI animation studio — full stack, built from zero
+◈  [WIP]   The Slayer of Stars — Vol. I dark fantasy
+◈  [✓]    QwenCoder — LLM-powered code assistant
+◈  [✓]    thegitgram_bot — GitHub × Telegram automation
+◈  [✓]    stoery — TypeScript storytelling engine
+◈  [✓]    Vertical-Constructions — generative architecture
+◈  [✓]    Founded ParallelogramFoundation
+```
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> &nbsp;`stats --live`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=techxsarwar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxsarwar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&text_color=e2e8f0&langs_count=8" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=techxsarwar&theme=midnight-purple&hide_border=true&background=0f0c29&ring=c4b5fd&fire=c084fc&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=e2e8f0" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techxsarwar&theme=react-dark&hide_border=true&bg_color=0f0c29&color=c4b5fd&line=7c3aed&point=c084fc&area=true&area_color=c4b5fd" width="95%"/>
+
+</div>
+
+---
+
+## 🐍 &nbsp;`watch ./contributions`
 
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-snake-dark.svg" width="95%"/>
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-snake-dark.svg" width="95%"/>
 </picture>
 </div>
 
 ---
 
-## 🏆 GitHub Milestones & Trophies
+## 🏆 &nbsp;`cat ./trophies`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=techxsarwar&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" width="95%"/>
@@ -165,26 +182,38 @@ const engineer = {
 
 ---
 
-## 🌐 Connect & Collaborate
+## 💬 &nbsp;`cat ./contact`
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Available+for+AI+systems+engineering+%C2%B7+collaborations;Remote-first+%C2%B7+Based+in+Kashmir%2C+India;Let%27s+build+exceptional+technology+together.)](https://github.com/techxsarwar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Open+to+internships+%C2%B7+collabs+%C2%B7+freelance;Kashmir+%E2%86%92+World+%C2%B7+Remote-first;Let%27s+build+something+wild+together+%E2%9C%A8)](https://github.com/techxsarwar)
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-@techxsarwar-090d16?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)](https://github.com/techxsarwar)
+[![GitHub](https://img.shields.io/badge/GitHub-techxsarwar-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/techxsarwar)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@i.jubito-090d16?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111827)](https://instagram.com/i.jubito)
+[![Instagram](https://img.shields.io/badge/Instagram-@i.jubito-0f0c29?style=for-the-badge&logo=instagram&logoColor=white&labelColor=302b63)](https://instagram.com/i.jubito)
 &nbsp;
-[![Organization](https://img.shields.io/badge/Organization-ParallelogramFoundation-090d16?style=for-the-badge&logo=codeforces&logoColor=38bdf8&labelColor=111827)](https://github.com/ParallelogramFoundation)
+[![Org](https://img.shields.io/badge/Org-ParallelogramFoundation-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=302b63)](https://github.com/ParallelogramFoundation)
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:0f766e,100:090d16&height=110&section=footer&animation=twinkling" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=20&pause=999999&color=7C3AED&center=true&vCenter=true&width=640&lines=I+build+at+the+intersection+of+intelligence+and+imagination.)](https://github.com/techxsarwar)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/techxsarwar/techxsarwar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:302b63,100:0f0c29&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
