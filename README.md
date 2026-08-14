@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--  ✏️ SARWAR ALTAF DAR  ·  THE DOODLE ARCHITECT PROFILE ✏️       -->
+<!--  ✏️ SARWAR ALTAF DAR  ·  LOTTIE & ANIMATED CYBER-DOODLE  ✏️    -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
+<!-- Dynamic Waving Capsule Header SVG -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,25:1e1b4b,50:4c1d95,75:7c3aed,100:0b0f19&height=230&section=header&text=%E2%9C%A7%20SARWAR%20ALTAF%20DAR%20%E2%9C%A7&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%8D%EF%B8%8F%20AI%20Developer%20%C2%B7%20Fiction%20Author%20%C2%B7%20Doodler%20of%20the%20Impossible&descSize=15&descAlignY=62&descColor=c4b5fd&animation=twinkling" width="100%" alt="Sarwar Altaf Dar Banner"/>
 
+<!-- Interactive Animated Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&weight=700&size=26&duration=2600&pause=800&color=C4B5FD&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Hey+there%2C+welcome+to+my+digital+sketchbook!+%F0%9F%91%8B;Building+kinetic+AI+systems+from+Kashmir+%F0%9F%8F%94%EF%B8%8F%E2%9C%A8;Author+of+%22The+Slayer+of+Stars%22+%F0%9F%93%96%E2%9C%A8;Architect+of+FitRace+Gym+Ecosystem+%E2%9A%A1;Crafting+code+like+physics%2C+stories+like+dreams.)](https://github.com/techxsarwar)
 
 </div>
@@ -32,9 +34,11 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> &nbsp;`doodle.whoami`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"/> &nbsp;`doodle.whoami`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Doodle"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="380" alt="Lottie Animation Developer"/>
+</p>
 
 ```javascript
 /* ✦ Sarwar's Blueprint ✦ */
@@ -62,11 +66,9 @@ const sarwar = {
 };
 ```
 
-<br clear="right"/>
-
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/> &nbsp;`doodle.stack`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> &nbsp;`doodle.stack`
 
 <div align="center">
 
@@ -88,7 +90,7 @@ const sarwar = {
 
 ---
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"/> &nbsp;`doodle.featured_projects`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="28"/> &nbsp;`doodle.featured_projects`
 
 <br/>
 
@@ -134,7 +136,7 @@ const sarwar = {
 
 ---
 
-### 📈 &nbsp;`doodle.star_history`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28"/> &nbsp;`doodle.star_history`
 
 <div align="center">
 
@@ -150,7 +152,7 @@ const sarwar = {
 
 ---
 
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> &nbsp;`doodle.git_log`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28"/> &nbsp;`doodle.git_log`
 
 ```
 ◈  [SHIPPED]  FitRace Gym — Real Hardware Pedometer + Turnstile Clearance + Next.js Portal
@@ -162,7 +164,7 @@ const sarwar = {
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"/> &nbsp;`doodle.telemetry`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="26"/> &nbsp;`doodle.telemetry`
 
 <div align="center">
 
@@ -182,7 +184,7 @@ const sarwar = {
 
 ---
 
-### 🐍 &nbsp;`doodle.snake_eater`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"/> &nbsp;`doodle.snake_eater`
 
 <div align="center">
 <picture>
@@ -194,7 +196,7 @@ const sarwar = {
 
 ---
 
-### 🏆 &nbsp;`doodle.trophies`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28"/> &nbsp;`doodle.trophies`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=techxsarwar&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7" width="95%"/>
@@ -202,7 +204,7 @@ const sarwar = {
 
 ---
 
-### 📡 &nbsp;`doodle.uplink`
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="28"/> &nbsp;`doodle.uplink`
 
 <div align="center">
 
