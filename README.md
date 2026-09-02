@@ -109,34 +109,32 @@ const sarwar = {
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28" alt="Projects"/> &nbsp; `cat ./featured-projects`
 
-<br/>
-
 <div align="center">
 
 ### 🚀 Featured Work
 
 <a href="https://github.com/techxsarwar/QwenCoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=QwenCoder&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FF006E&icon_color=FB5607&text_color=ffffff&description_lines_count=2&border_color=FF006E&border_radius=10" alt="QwenCoder"/>
+  <img src="https://img.shields.io/badge/QwenCoder-FF006E?style=for-the-badge&logo=github&logoColor=white" alt="QwenCoder"/>
 </a>
 &nbsp;
 <a href="https://github.com/techxsarwar/thegitgram_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=thegitgram_bot&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FB5607&icon_color=FFBE0B&text_color=ffffff&description_lines_count=2&border_color=FB5607&border_radius=10" alt="TheGitGram Bot"/>
+  <img src="https://img.shields.io/badge/TheGitGram%20Bot-FB5607?style=for-the-badge&logo=github&logoColor=white" alt="TheGitGram Bot"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/techxsarwar/stoery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=stoery&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FFBE0B&icon_color=8338EC&text_color=ffffff&description_lines_count=2&border_color=FFBE0B&border_radius=10" alt="Stoery"/>
+  <img src="https://img.shields.io/badge/Stoery-FFBE0B?style=for-the-badge&logo=github&logoColor=black" alt="Stoery"/>
 </a>
 &nbsp;
 <a href="https://github.com/techxsarwar/Vertical-Constructions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=Vertical-Constructions&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=8338EC&icon_color=3A86FF&text_color=ffffff&description_lines_count=2&border_color=8338EC&border_radius=10" alt="Vertical Constructions"/>
+  <img src="https://img.shields.io/badge/Vertical%20Constructions-8338EC?style=for-the-badge&logo=github&logoColor=white" alt="Vertical Constructions"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/techxsarwar/themanwithin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=themanwithin&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=3A86FF&icon_color=FF006E&text_color=ffffff&description_lines_count=2&border_color=3A86FF&border_radius=10" alt="The Man Within"/>
+  <img src="https://img.shields.io/badge/The%20Man%20Within-3A86FF?style=for-the-badge&logo=github&logoColor=white" alt="The Man Within"/>
 </a>
 
 </div>
