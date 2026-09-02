@@ -1,10 +1,16 @@
 <div align="center">
 
-<!--  ╔══════════════════════════════════════════════════════════╗  -->
-<!--  ║     SARWAR ALTAF DAR — AI DEVELOPER & FICTION AUTHOR     ║  -->
-<!--  ╚══════════════════════════════════════════════════════════╝  -->
+<!--  ╔════════════════════════════════════════════════════════════════╗  -->
+<!--  ║          SARWAR ALTAF DAR — CRAFTING THE IMPOSSIBLE           ║  -->
+<!--  ╚════════════════════════════════════════════════════════════════╝  -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:4c1d95&height=220&section=header&text=Sarwar%20Altaf%20Dar&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20Developer%20%7C%20Fiction%20Author%20%7C%20Full%20Stack%20Builder&descSize=16&descAlignY=65&descColor=c4b5fd&animation=twinkling" width="100%" alt="Sarwar Altaf Dar"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:FB5607,100:FFBE0B&height=240&section=header&text=Sarwar%20Altaf%20Dar&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20Fiction%20Author%20%7C%20Full%20Stack%20Architect&descSize=18&descAlignY=68&descColor=ffffff&animation=fadeIn" width="100%" alt="Sarwar Altaf Dar Header"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github.com/techxsarwar.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #FF006E; box-shadow: 0 0 30px rgba(255, 0, 110, 0.5);" alt="Sarwar Altaf Dar"/>
 
 </div>
 
@@ -12,7 +18,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there%2C+I%27m+Sarwar+%F0%9F%91%8B;AI+Developer+from+Kashmir+%F0%9F%8F%94%EF%B8%8F;Building+impossible+systems%2C+crafting+untold+worlds;Open+to+collabs+%E2%9C%A8)](https://github.com/techxsarwar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=3000&pause=800&color=FF006E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hey+there%2C+I%27m+Sarwar+%F0%9F%91%8B;AI+Developer+from+Kashmir+%F0%9F%8F%94%EF%B8%8F;Building+impossible+systems%2C+crafting+untold+worlds;Open+to+collabs+%E2%9C%A8)](https://github.com/techxsarwar)
 
 </div>
 
@@ -21,18 +27,18 @@
 <div align="center">
 
 <a href="https://github.com/techxsarwar">
-  <img src="https://komarev.com/ghpvc/?username=techxsarwar&style=for-the-badge&color=302b63&labelColor=0f0c29&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=techxsarwar&style=for-the-badge&color=FF006E&labelColor=1a1a1a&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 &nbsp;
 <a href="https://github.com/techxsarwar?tab=followers">
-  <img src="https://img.shields.io/github/followers/techxsarwar?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS&logo=github&logoColor=c4b5fd" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/techxsarwar?style=for-the-badge&color=FB5607&labelColor=1a1a1a&label=FOLLOWERS&logo=github&logoColor=FFBE0B" alt="GitHub followers"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING-4c1d95?style=for-the-badge&labelColor=0f0c29&logoColor=c4b5fd" alt="Building status"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%EF%B8%8F-FFBE0B?style=for-the-badge&labelColor=1a1a1a&logoColor=FF006E" alt="Building status"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LOCATION-KASHMIR-0f766e?style=for-the-badge&labelColor=0f0c29" alt="Location"/>
+<img src="https://img.shields.io/badge/LOCATION-KASHMIR-8338EC?style=for-the-badge&labelColor=1a1a1a" alt="Location"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MODE-REMOTE--FIRST-7c3aed?style=for-the-badge&labelColor=0f0c29" alt="Remote mode"/>
+<img src="https://img.shields.io/badge/MODE-REMOTE%20FIRST-FF006E?style=for-the-badge&labelColor=1a1a1a" alt="Remote mode"/>
 
 </div>
 
@@ -90,12 +96,12 @@ const sarwar = {
 
 | **Category** | **Technologies** |
 |:---:|:---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **AI / ML** | ![Claude API](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Qwen](https://img.shields.io/badge/Qwen-6366F1?style=flat-square&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Tools** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-FF006E?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FB5607?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-FFBE0B?style=flat-square&logo=typescript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-8338EC?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-3A86FF?style=flat-square&logo=css3&logoColor=white) |
+| **AI / ML** | ![Claude API](https://img.shields.io/badge/Claude_API-FF006E?style=flat-square&logo=anthropic&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FB5607?style=flat-square&logo=huggingface&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-FFBE0B?style=flat-square&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-8338EC?style=flat-square&logo=chainlink&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-3A86FF?style=flat-square&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-FB5607?style=flat-square&logo=tailwindcss&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-FF006E?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-FFBE0B?style=flat-square&logo=nodedotjs&logoColor=black) ![Express](https://img.shields.io/badge/Express-8338EC?style=flat-square&logo=express&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-FF006E?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-3A86FF?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FB5607?style=flat-square&logo=linux&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-FFBE0B?style=flat-square&logo=github&logoColor=black) |
+| **Tools** | ![VSCode](https://img.shields.io/badge/VSCode-8338EC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-FF006E?style=flat-square&logo=figma&logoColor=white) |
 
 </div>
 
@@ -110,27 +116,27 @@ const sarwar = {
 ### 🚀 Featured Work
 
 <a href="https://github.com/techxsarwar/QwenCoder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=QwenCoder&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&description_lines_count=2" alt="QwenCoder"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=QwenCoder&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FF006E&icon_color=FB5607&text_color=ffffff&description_lines_count=2&border_color=FF006E&border_radius=10" alt="QwenCoder"/>
 </a>
 &nbsp;
 <a href="https://github.com/techxsarwar/thegitgram_bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=thegitgram_bot&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&description_lines_count=2" alt="TheGitGram Bot"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=thegitgram_bot&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FB5607&icon_color=FFBE0B&text_color=ffffff&description_lines_count=2&border_color=FB5607&border_radius=10" alt="TheGitGram Bot"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/techxsarwar/stoery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=stoery&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&description_lines_count=2" alt="Stoery"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=stoery&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FFBE0B&icon_color=8338EC&text_color=ffffff&description_lines_count=2&border_color=FFBE0B&border_radius=10" alt="Stoery"/>
 </a>
 &nbsp;
 <a href="https://github.com/techxsarwar/Vertical-Constructions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=Vertical-Constructions&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&description_lines_count=2" alt="Vertical Constructions"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=Vertical-Constructions&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=8338EC&icon_color=3A86FF&text_color=ffffff&description_lines_count=2&border_color=8338EC&border_radius=10" alt="Vertical Constructions"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/techxsarwar/themanwithin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=themanwithin&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&description_lines_count=2" alt="The Man Within"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techxsarwar&repo=themanwithin&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=3A86FF&icon_color=FF006E&text_color=ffffff&description_lines_count=2&border_color=3A86FF&border_radius=10" alt="The Man Within"/>
 </a>
 
 </div>
@@ -159,17 +165,17 @@ const sarwar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=techxsarwar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=techxsarwar&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FF006E&icon_color=FB5607&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github&border_color=FF006E&border_radius=10" height="180" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxsarwar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=c4b5fd&text_color=e2e8f0&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techxsarwar&layout=compact&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=FB5607&text_color=ffffff&langs_count=8&border_color=FB5607&border_radius=10" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=techxsarwar&theme=midnight-purple&hide_border=true&background=0f0c29&ring=c4b5fd&fire=c084fc&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=e2e8f0" width="70%" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=techxsarwar&theme=dark&hide_border=true&background=1a1a1a&ring=FF006E&fire=FB5607&currStreakLabel=FFBE0B&sideLabels=8338EC&dates=ffffff" width="70%" alt="GitHub Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techxsarwar&theme=react-dark&hide_border=true&bg_color=0f0c29&color=c4b5fd&line=7c3aed&point=c084fc&area=true&area_color=c4b5fd" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techxsarwar&theme=xcode-dark&hide_border=true&bg_color=1a1a1a&color=FF006E&line=FB5607&point=FFBE0B&area=true&area_color=8338EC" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -207,11 +213,11 @@ const sarwar = {
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-techxsarwar-0f0c29?style=for-the-badge&logo=github&logoColor=c4b5fd&labelColor=302b63)](https://github.com/techxsarwar)
+[![GitHub](https://img.shields.io/badge/GitHub-techxsarwar-1a1a1a?style=for-the-badge&logo=github&logoColor=FF006E&labelColor=FF006E)](https://github.com/techxsarwar)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@i.jubito-0f0c29?style=for-the-badge&logo=instagram&logoColor=c4b5fd&labelColor=302b63)](https://instagram.com/i.jubito)
+[![Instagram](https://img.shields.io/badge/Instagram-@i.jubito-1a1a1a?style=for-the-badge&logo=instagram&logoColor=FB5607&labelColor=FB5607)](https://instagram.com/i.jubito)
 &nbsp;
-[![Organization](https://img.shields.io/badge/Org-ParallelogramFoundation-0f0c29?style=for-the-badge&logo=github&logoColor=c4b5fd&labelColor=302b63)](https://github.com/ParallelogramFoundation)
+[![Organization](https://img.shields.io/badge/Org-ParallelogramFoundation-1a1a1a?style=for-the-badge&logo=github&logoColor=FFBE0B&labelColor=FFBE0B)](https://github.com/ParallelogramFoundation)
 
 </div>
 
@@ -239,7 +245,7 @@ const sarwar = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBE0B,50:FB5607,100:FF006E&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <br/>
 
