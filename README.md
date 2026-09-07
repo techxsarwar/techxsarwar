@@ -66,6 +66,19 @@ I'm an 18-year-old developer from Damhal Hanji Pora, Kashmir. **Self-taught** �
 
 ---
 
+## 🏆 Achievements & Badges
+
+<div align="center">
+
+![YOLO Badge](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+![QuickDraw Badge](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
+
+**Open Source Contributor** · **Self-Taught Developer** · **Product Builder** · **Distributed Systems Architect**
+
+</div>
+
+---
+
 ## 🏢 Eangulia — Parent Company & Organization
 
 <div align="center">
@@ -87,9 +100,26 @@ Eangulia is an open-source collective focused on creating production-grade tools
 
 <br/>
 
----
+### Backend Specialties
+![API Design](https://img.shields.io/badge/-REST_GraphQL_APIs-6D28D9?style=for-the-badge&logoColor=white)
+![Security](https://img.shields.io/badge/-OAuth_JWT_SAML-D32F2F?style=for-the-badge&logoColor=white)
+![Performance](https://img.shields.io/badge/-Scalability_Optimization-F59E0B?style=for-the-badge&logoColor=white)
+![Database](https://img.shields.io/badge/-DB_Optimization-10B981?style=for-the-badge&logoColor=white)
+![Load Balancing](https://img.shields.io/badge/-Load_Balancing-3B82F6?style=for-the-badge&logoColor=white)
 
-## 🛠️ Technology Stack
+### Software Engineering Practices
+![Testing](https://img.shields.io/badge/-Unit_Integration_E2E_Tests-06B6D4?style=for-the-badge&logoColor=white)
+![Architecture](https://img.shields.io/badge/-System_Architecture_Design-8B5CF6?style=for-the-badge&logoColor=white)
+![Code Quality](https://img.shields.io/badge/-Code_Review_Best_Practices-059669?style=for-the-badge&logoColor=white)
+![Documentation](https://img.shields.io/badge/-Technical_Documentation-6366F1?style=for-the-badge&logoColor=white)
+
+### Third-Party Integrations
+![Stripe](https://img.shields.io/badge/-Stripe_Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/-AWS_S3_GCS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Email](https://img.shields.io/badge/-SendGrid_Mailgun-1434CB?style=for-the-badge&logoColor=white)
+![Auth](https://img.shields.io/badge/-OAuth_Authentication-404040?style=for-the-badge&logoColor=white)
+
+---
 
 ### Languages & Fundamentals
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
