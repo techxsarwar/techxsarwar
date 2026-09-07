@@ -34,9 +34,17 @@ I'm an 18-year-old developer from Damhal Hanji Pora, Kashmir. **Self-taught** �
 **Currently:**
 - 🚀 **Co-Founder @ [Eangulia](https://github.com/Eangulia)** — Building the next generation of open-source software
 - 💼 Building **GlimmerERP** — A modern, modular enterprise resource planning system
-- 🤖 AI-driven architecture and full-stack solutions
+- 🤖 AI-driven architecture and full-stack solutions using Go, Rust, Node.js & GraphQL
 - 📖 Writing *The Slayer of Stars*, Vol. I — a dark fantasy epic
-- 🧠 Mastering ML engineering, systems design, distributed architectures
+- 🧠 Intermediate expertise in distributed systems, Kafka streaming, Kubernetes orchestration, and cloud infrastructure (AWS/GCP)
+
+**Specialties:**
+- 🔒 **Security & Authentication** — OAuth, JWT, SAML implementation
+- ⚡ **Performance Tuning & Scalability** — Load balancing, database optimization, high-throughput systems
+- 🏗️ **API Design** — RESTful & GraphQL architectures
+- 💳 **Third-Party Integrations** — Stripe payments, S3/GCS storage, SendGrid/Mailgun email, OAuth providers
+- 🧪 **Engineering Excellence** — Unit/Integration/E2E testing, code review, refactoring, architecture design, comprehensive documentation
+- 🐛 **Debugging & Troubleshooting** — Production incident resolution, performance profiling
 
 **Portfolio:**
 - 🌐 **30+ repositories** total
@@ -44,7 +52,13 @@ I'm an 18-year-old developer from Damhal Hanji Pora, Kashmir. **Self-taught** �
 - 🔒 **10+ private repositories** (client & proprietary work)
 
 **Philosophy:**
-> *I believe in Linus Torvalds' vision: software should be free, communities drive innovation, and every line of code is a conversation. When I work on open-source, I license under GNU to ensure the commons stay public. The best systems, like the best stories, are ones people can't imagine living without.*
+> *I build at the intersection of intelligence and imagination. I'm driven by creating products from scratch — architecting scalable systems that solve real problems. Every line of code is part of a larger whole. I believe in open-source ideals: code should be free, transparent, and built by communities. When I work on open-source, I license under GNU to ensure the commons stay public. The best systems, like the best stories, are ones people can't imagine living without.*
+
+**What Motivates Me:**
+- 🏗️ **Building products from zero** — architecting full-stack systems, not just contributing to existing ones
+- 🚀 **Scalable, performant systems** — optimizing for real-world load and user experience
+- 🔓 **Open source philosophy** — creating tools the world can audit, fork, and improve
+- 📖 **Storytelling through code** — treating architecture like narrative structure
 
 **Open to:** Internships · Open source collaborations · Technical mentorship · Freelance contracts · Speaking engagements
 
@@ -97,6 +111,10 @@ Eangulia is an open-source collective focused on creating production-grade tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![Java / Spring Boot](https://img.shields.io/badge/-Java_Spring-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP / Laravel](https://img.shields.io/badge/-PHP_Laravel-777BB4?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### AI & Machine Learning
 ![Claude API](https://img.shields.io/badge/-Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -105,20 +123,29 @@ Eangulia is an open-source collective focused on creating production-grade tools
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/-Cursor_AI-6D28D9?style=for-the-badge&logoColor=white)
 
-### Databases
+### Databases & Caching
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/-Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Message Queues & Streaming
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/-Apollo-311C87?style=for-the-badge&logo=apollo&logoColor=white)
 
 ### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Hardware & IoT
