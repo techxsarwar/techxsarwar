@@ -32,7 +32,7 @@ I'm an 18-year-old developer from Damhal Hanji Pora, Kashmir. **Self-taught** �
 **Heavily inspired by Linus Torvalds** and the open-source philosophy: code should be free, transparent, and built by communities. When I work on open-source, I license under **GNU GPL** to ensure modifications remain public. I've been obsessed with tech since childhood, teaching myself through experimentation and community learning.
 
 **Currently:**
-- 🚀 **Co-Founder @ [Eangulia](https://github.com/Eangulia)** — Building the next generation of open-source software
+- 🚀 **Founder @ [Eangulia](https://github.com/Eangulia)** — Building the next generation of open-source software
 - 💼 Building **GlimmerERP** — A modern, modular enterprise resource planning system
 - 🤖 AI-driven architecture and full-stack solutions using Go, Rust, Node.js & GraphQL
 - 📖 Writing *The Slayer of Stars*, Vol. I — a dark fantasy epic
