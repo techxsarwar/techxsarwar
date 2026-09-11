@@ -2,7 +2,7 @@
 
 # SARWAR ALTAF DAR
 
-**AI Developer • Full Stack Architect • Open Source Advocate • Co-Founder @ Eangulia**
+**AI Developer • Full Stack Architect • Open Source Advocate • Founder @ Eangulia**
 
 Building intelligent systems. Writing worlds that don't exist yet. Shipping open-source that matters.
 
